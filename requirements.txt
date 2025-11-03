@@ -1,0 +1,4 @@
+requests
+azure-ai-formrecognizer==3.3.3
+dotenv
+azure-search-documents==11.6.0
